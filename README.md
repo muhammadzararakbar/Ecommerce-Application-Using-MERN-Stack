@@ -15,4 +15,6 @@ Make sure the following are installed on your system:
 download the project 
 install node modules using "npm install" command 
 For all of the three folders required node modules and backend folder required .env file
-.env file include database url and secret key for the project 
+.env file include database url and secret key for the project
+
+Repository creted by: https://github.com/muhammadzararakbar/Ecommerce-Application-Using-MERN-Stack/tree/master
